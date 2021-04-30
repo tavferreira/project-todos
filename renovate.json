@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "addLabels": ["dependencies"],
+  "vulnerabilityAlerts": {
+    "labels": ["security"]
+  }
+}
